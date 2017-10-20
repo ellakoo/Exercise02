@@ -1,0 +1,3 @@
+./exercise02/img/puppy1.jpg
+./exercise02/img/puppy2.jpg
+./exercise02/img/puppy3.jpg

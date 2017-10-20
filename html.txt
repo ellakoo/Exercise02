@@ -1,0 +1,3 @@
+./exercise02/index1.html
+./exercise02/index2.html
+./exercise02/index3.html
